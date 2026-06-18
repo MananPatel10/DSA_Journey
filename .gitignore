@@ -1,0 +1,14 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Compiled Java class files
+*.class
+out/
+
+# Build directories (in case you use Maven/Gradle later)
+target/
+build/
+
+# Windows system files
+Thumbs.db
